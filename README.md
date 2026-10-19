@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Manvi1001/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/Manvi1001/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Manvi1001/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Manvi1001/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Manvi1001/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Manvi1001/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Manvi1001/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Manvi1001/DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
